@@ -10,6 +10,3 @@ dependencies = [
     "playwright>=1.49.1",
     "python-dotenv>=1.0.1",
 ]
-
-[tool.uv.sources]
-browser-use = { workspace = true }
