@@ -1,0 +1,15 @@
+[project]
+name = "examples"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "browser-use",
+    "langchain-openai>=0.3.1",
+    "playwright>=1.49.1",
+    "python-dotenv>=1.0.1",
+]
+
+[tool.uv.sources]
+browser-use = { workspace = true }
