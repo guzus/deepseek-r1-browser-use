@@ -1,5 +1,7 @@
 # Deepseek R1 brower-use
 
+https://github.com/user-attachments/assets/08d8ac9d-4862-49a3-b42a-fe69c97240d5
+
 ## Quick start
 
 1. Create .env file from .env.example and fill in the DEEPSEEK_API_KEY (get it from [Deepseek](https://platform.deepseek.com/api_keys))
